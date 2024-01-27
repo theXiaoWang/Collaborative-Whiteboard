@@ -8,7 +8,7 @@
 
 <br />
 <p align="center">
-  <img src="frontend/assets/icon.png" alt="Logo" width="120" height="120" style="border-radius:15%;">
+  <img src="assets/icon.png" alt="Logo" width="120" height="120" style="border-radius:15%;">
 
   <h3 align="center">Collaborative Whiteboard</h3>
   <p align="center">A platform for collaborative sketching and brainstorming.</p>
@@ -26,8 +26,8 @@
 ## Screenshots
 
 <div style="display: flex; justify-content:center; align-items:center;" align="center">
-  <img src="frontend/screenshot-1.png" alt="Screenshot 1" width="200" style="margin-right: 20px;">
-  <img src="frontend/screenshot-2.png" alt="Screenshot 2" width="300" style="margin-left: 20px;">
+  <img src="screenshot-1.png" alt="Screenshot 1" width="200" style="margin-right: 20px;">
+  <img src="screenshot-2.png" alt="Screenshot 2" width="300" style="margin-left: 20px;">
 </div>
 
 ## Features
@@ -39,8 +39,15 @@
 * Responsive design for various devices
 * Pencil, Eraser, Rectangle, Text and Line Tools
 
+* ## Run locally
+
+1. Clone the repository
+2. Install dependencies with `npm install`
+3. Start the development server with `npm start`
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+
 ## Contributors
 
-<a href="https://github.com/kuuhhl/Collaborative-Whiteboard/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kuuhhl/Collaborative-Whiteboard" />
+<a href="https://github.com/theXiaoWang/Collaborative-Whiteboard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=theXiaoWang/Collaborative-Whiteboard" />
 </a>
