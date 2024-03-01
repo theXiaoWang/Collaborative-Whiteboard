@@ -15,7 +15,7 @@
 </p>
 
 <div align="center" style="display: flex; flex-direction: column;">
-  <a href="https://whiteboard.kuuhhl.live/">
+  <a href="[https://whiteboard.kuuhhl.live/](https://whiteboard.landmann.ph/?room=offline)">
     <img src="https://img.shields.io/badge/Try frontend-00358a?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </div>
